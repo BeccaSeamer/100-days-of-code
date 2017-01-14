@@ -35,3 +35,13 @@
 **Thoughts**: I had some issues with the alignment of the pagers for navigating - they are currently in a fixed position, but I would like to try to make them as responsive as the rest of the site.
 
 **Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/post-index-template
+
+### Day 5: January 14th, 2017
+
+**Today's Progress**: I finished the last couple of pages for the blog template - a basic About page, and a Contact page that will send an email to the one specified in the send-email.php document.
+
+**Thoughts**: Most of the code I re-used from some old projects - the contact form only needed to be re-styled to fit with the new site. I feel that I should go through the code to check that I understand how & why it works.
+
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/about.php
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/contact.php
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/send-email.php
