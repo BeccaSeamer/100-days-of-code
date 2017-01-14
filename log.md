@@ -6,7 +6,7 @@
 
 **Thoughts**: Today went fairly well, there was a minor hiccup with the dropdown function of the Navbar - it seems that the code on the source website doesn't work without using some JavaScript - however it works now.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
 
 ### Day 2: January 10th, 2017
 
@@ -14,7 +14,7 @@
 
 **Thoughts**: The work went much faster today, and I was able to re-use a lot of the code from yesterday. I need to tidy it all up a bit more once I have finished all of the templates.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
 
 ### Day 2: January 12th, 2017
@@ -23,4 +23,7 @@
 
 **Thoughts**: Although the project is now harder to work on as PHP requires a server connection in order to be able to see the work, this will make it much easier to create new pages and content for the site.
 
-**Link to work**: 
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/header.php
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/footer.php
