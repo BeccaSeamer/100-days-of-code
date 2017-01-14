@@ -45,8 +45,36 @@
 				text-decoration: none !important;
 			
 			}
+			
+			.pager {
+  
+				margin-left: 0;
+				margin-bottom: 18px;
+				list-style: none;
+				*zoom: 1;
+			}
+			
+			.align-left {
+				
+				text-align: left;
+				float: left;
+				margin-left: 450px;
+				margin-right: 15px;
+				
+			}
+			
+			.align-right {
+				
+				text-align: right;
+				float: right;
+				margin-left: 15px;
+				margin-right: 450px;
+				
+			}
 		
 		</style>
+		
+		<title>Blog Template</title>
 		
 	</head>
   
@@ -80,13 +108,13 @@
 					
 					<li class="nav-item">
 					
-						<a class="nav-link" href="#">About</a>
+						<a class="nav-link" href="about.php">About</a>
 					
 					</li>
 					
 					<li class="nav-item">
 					
-						<a class="nav-link" href="#">Contact</a>
+						<a class="nav-link" href="contact.php">Contact</a>
 					
 					</li>
 				
