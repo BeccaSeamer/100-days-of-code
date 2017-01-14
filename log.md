@@ -17,7 +17,7 @@
 **Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
 
-### Day 2: January 12th, 2017
+### Day 3: January 12th, 2017
 
 **Today's Progress**: Today I turned my completed html documents into PHP documents so that I could also create header and footer documents that can be re-used for every page of the site instead of having to re-write the same code for the navbar and the JavaScript.
 
@@ -27,3 +27,11 @@
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/header.php
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/footer.php
+
+### Day 4: January 13th, 2017
+
+**Today's Progress**: Today I created a template for an index page for blog posts - ideally designed to contain links to and descriptions of a month's worth of blog posts on a single page.
+
+**Thoughts**: I had some issues with the alignment of the pagers for navigating - they are currently in a fixed position, but I would like to try to make them as responsive as the rest of the site.
+
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/post-index-template
