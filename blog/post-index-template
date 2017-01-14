@@ -1,0 +1,263 @@
+<?php include("header.php"); ?>
+
+		<div class="container">
+		
+			<div class="row">
+			
+				<div class="col-lg-12">
+				
+					<h1 class="page-header" id="header">Month</h1>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<div class="col-md-1 text-center">
+				
+					<p><i class="fa fa-file-text fa-4x"></i></p>
+					
+					<p>Date</p>
+					
+				</div>
+				
+				<div class="col-md-5">
+				
+					<a href="#">
+						
+						<img class="img-responsive img-hover" src="http://placehold.it/450x225" alt="">
+						
+					</a>
+				
+				</div>
+				
+				<div class="col-md-6">
+				
+					<h3><a href="#">Blog Post Title</a></h3>
+					
+					<p>by <a href="#">Author</a></p>
+					
+					<p>Outline of post</p>
+					
+					<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+				
+				</div>
+			
+			</div>
+			
+			<hr>
+			
+			<div class="row">
+			
+				<ul class="pager">
+				
+					<div class="align-left">
+				
+						<li class="previous">
+						
+							<a href="#">&larr; Older </a>
+							
+						</li>
+						
+					</div>
+					
+					<div class="align-right">
+						
+						<li class="next">
+						
+							<a href="#"> Newer &rarr;</a>
+							
+						</li>
+						
+					</div>
+				
+				</ul>
+			
+			</div>
+		
+		</div>
+
+<?php include("footer.php"); ?>
