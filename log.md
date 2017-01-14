@@ -6,7 +6,7 @@
 
 **Thoughts**: Today went fairly well, there was a minor hiccup with the dropdown function of the Navbar - it seems that the code on the source website doesn't work without using some JavaScript - however it works now.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/1-blog-index
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index
 
 ### Day 2: January 10th, 2017
 
@@ -14,8 +14,8 @@
 
 **Thoughts**: The work went much faster today, and I was able to re-use a lot of the code from yesterday. I need to tidy it all up a bit more once I have finished all of the templates.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/1-blog-index
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/1-blog-post
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
 
 ### Day 2: January 12th, 2017
 
