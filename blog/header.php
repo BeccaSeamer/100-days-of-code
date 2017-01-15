@@ -100,7 +100,7 @@
 						
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						
-							<a class="dropdown-item" href="#">January</a>
+							<a class="dropdown-item" href="post-index.php">Month</a>
 							
 						</div>
 				
