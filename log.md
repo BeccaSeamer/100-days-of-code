@@ -45,3 +45,11 @@
 **Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/about.php
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/contact.php
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/send-email.php
+
+### Day 6: January 15th, 2017
+
+**Today's Progress**: I have finished the blog template - it is ready to be filled with content and used.
+
+**Thoughts**: I'm not 100% happy with the pager on the post-index-template.php, but it is functional and that will do for now.
+
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/tree/master/blog
