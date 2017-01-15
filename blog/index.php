@@ -38,19 +38,19 @@
 						
 						<div class="col-md-3">
 						
-							<h3 class="blog-link"><a href="#">Title</a></h3>
+							<h3 class="blog-link"><a href="blog-post-template.php">Title</a></h3>
 							
 							<p>by <a href="#">Author</a></p>
 							
 							<p>Intro text goes here</p>
 							
-							<a class="btn btn-info" href="#">Read More <i class="fa fa-angle-right"></i></a>
+							<a class="btn btn-info" href="blog-post-template.php">Read More <i class="fa fa-angle-right"></i></a>
 						
 						</div>
 						
 						<div class="col-md-6">
 						
-							<a href="#">
+							<a href="blog-post-template.php">
 							
 								<img class="img-responsive" src="http://placehold.it/525x300" alt="">
 								
