@@ -48,8 +48,9 @@
 
 ### Day 6: January 15th, 2017
 
-**Today's Progress**: I have finished the blog template - it is ready to be filled with content and used.
+**Today's Progress**: I have finished the blog template - it is ready to be filled with content and used. I also started my next project - a one page personal site for my sister.
 
-**Thoughts**: I'm not 100% happy with the pager on the post-index-template.php, but it is functional and that will do for now.
+**Thoughts**: I'm not 100% happy with the pager on the post-index-template.php, but it is functional and that will do for now. The one-page site is going well - however the button in the navbar isn't pulling right at the moment, and I need to fix some of the styling in the modal.
 
 **Link to work**: https://github.com/EchoOblivion/100-days-of-code/tree/master/blog
+                  https://github.com/EchoOblivion/100-days-of-code/blob/master/personal-sites/Katie.html
