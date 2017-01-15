@@ -21,14 +21,65 @@
   
   	<body>
 		
-		<nav class="navbar navbar-toggleable-md sticky-top navbar-light" style="background-color: #E3F2FD;">
+		<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  
+			<div class="modal-dialog" role="document">
+    
+				<div class="modal-content">
+      
+					<div class="modal-header">
+        
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          
+							<span aria-hidden="true">&times;</span>
+        
+						</button>
+        
+						<h4 class="modal-title">Contact Me</h4>
+      
+					</div>
+      
+					<div class="modal-body">
+        
+						<form>
+						
+							
+						
+						</form>
+      
+					</div>
+      
+					<div class="modal-footer">
+        
+						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        
+						<button type="button" class="btn btn-primary">Send Email</button>
+      
+					</div>
+    
+				</div>
+  
+			</div>
+
+		</div>
+		
+		<nav class="navbar navbar-toggleable-md sticky-top navbar-light" style="background-color: #E6CCFF;">
 		
 			<div class="container">
 			
-				<a class="navbar-brand" href="index.php">Blog</a>
-			
+				<div class="navbar-header">
 				
-		
+					<a target="_blank" href="katie.html" class="navbar-brand">
+                    <img id="header-logo" src="katie.png" /></a>
+				
+				</div>
+				
+				<form class="form-inline pull-xs-right">
+				
+					<a href="#" class="btn btn-outline-primary" data-toggle="modal" data-target="#contactModal">Contact Me</a>
+				
+				</form>
+			
 			</div>
 		
 		</nav>
