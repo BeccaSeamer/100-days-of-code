@@ -54,3 +54,11 @@
 
 **Link to work**: https://github.com/EchoOblivion/100-days-of-code/tree/master/blog
                   https://github.com/EchoOblivion/100-days-of-code/blob/master/personal-sites/Katie.html
+
+### Day 7: January 16th, 2017
+
+**Today's Progress**: Today I continued with the site for my sister - I used CSS to change the styling of the buttons, and I created the contact form on the modal, ready for integration with PHP.
+
+**Thoughts**: I still can't get the button on the navbar to pull right; I found that it might be that the class has changed to float-xs-right, but it still doesn't seem to work. The other issue I have had is that the title of the modal seems to automatically align right, when I want it to be centered. It seems that I may need to work on CSS more.
+
+**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/personal-sites/Katie.html
