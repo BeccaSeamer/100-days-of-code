@@ -12,6 +12,50 @@
 		<script src="https://use.fontawesome.com/c880b66bf8.js"></script>
 		
 		<style type="text/css">
+			
+			#header-logo {
+			
+				height: 35px;
+			
+			}
+			
+			#contactBtn {
+			
+				border-radius: 24px;
+				color: white;
+				border-color: white;
+
+			}
+			
+			#contactBtn:hover {
+			
+				background-color: white;
+				border-color:white;
+				color: #E6CCFF;
+			
+			}
+			
+			#sendEmail {
+			
+				border-radius: 24px;
+				background-color: #E6CCFF;
+				border-color: #E6CCFF;
+			
+			}
+			
+			#sendEmail:hover {
+			
+				background-color: white;
+				color: #E6CCFF;
+			
+			}
+			
+			#close {
+			
+				border-radius: 24px;
+				color: grey;
+			
+			}
     
     		</style>
     
@@ -35,15 +79,47 @@
         
 						</button>
         
-						<h4 class="modal-title">Contact Me</h4>
+						<h4 class="text-center">Contact Me</h4>
       
 					</div>
       
 					<div class="modal-body">
         
-						<form>
+						<div class="row">
+			
+							<div class="col-lg-12">
+				
+								<div id="error"><? echo $error.$successMessage; ?></div>
+				
+							</div>
+			
+						</div>
 						
+						<form method="post">
+						
+							<div class="form-group">
+    
+								<label for="email">Email address</label>
+				
+								<input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email address">
+			  
+							</div>
 							
+							<div class="form-group">
+				
+								<label for="subject">Subject</label>
+				
+								<input type="text" class="form-control" id="subject" name="subject">
+			  
+							</div>
+							
+							<div class="form-group">
+				
+								<label for="content">What would you like to ask?</label>
+				
+								<textarea class="form-control" id="content" name="content" rows="3"></textarea>
+							
+							</div>
 						
 						</form>
       
@@ -51,9 +127,9 @@
       
 					<div class="modal-footer">
         
-						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+						<button type="button" id="close" class="btn btn-secondary" data-dismiss="modal">Close</button>
         
-						<button type="button" class="btn btn-primary">Send Email</button>
+						<button type="submit" id="sendEmail" class="btn btn-primary">Send Email</button>
       
 					</div>
     
@@ -66,19 +142,23 @@
 		<nav class="navbar navbar-toggleable-md sticky-top navbar-light" style="background-color: #E6CCFF;">
 		
 			<div class="container">
+				
+				<div class="row">
 			
-				<div class="navbar-header">
-				
-					<a target="_blank" href="katie.html" class="navbar-brand">
-                    <img id="header-logo" src="katie.png" /></a>
-				
+					<div class="navbar-header">
+
+						<a target="_blank" href="katie.html" class="navbar-brand">
+						<img id="header-logo" src="katie.png" /></a>
+
+					</div>
+
+					<form class="form-inline float-xs-right">
+
+						<a href="#" class="btn btn-outline-primary navbar-btn" id="contactBtn" data-toggle="modal" data-target="#contactModal">Contact Me</a>
+
+					</form>
+					
 				</div>
-				
-				<form class="form-inline pull-xs-right">
-				
-					<a href="#" class="btn btn-outline-primary" data-toggle="modal" data-target="#contactModal">Contact Me</a>
-				
-				</form>
 			
 			</div>
 		
@@ -109,7 +189,15 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 		
-		<script type="text/javascript"></script>
+		<script type="text/javascript">
+		
+			$("#contactModal").modal({
+			
+				keyboard: true;
+			
+			})
+		
+		</script>
     
   	</body>
   
