@@ -6,7 +6,7 @@
 
 **Thoughts**: Today went fairly well, there was a minor hiccup with the dropdown function of the Navbar - it seems that the code on the source website doesn't work without using some JavaScript - however it works now.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/index.php
 
 ### Day 2: January 10th, 2017
 
@@ -14,8 +14,8 @@
 
 **Thoughts**: The work went much faster today, and I was able to re-use a lot of the code from yesterday. I need to tidy it all up a bit more once I have finished all of the templates.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/index.php
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/blog-post-template
 
 ### Day 3: January 12th, 2017
 
@@ -23,10 +23,10 @@
 
 **Thoughts**: Although the project is now harder to work on as PHP requires a server connection in order to be able to see the work, this will make it much easier to create new pages and content for the site.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/index.php
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/blog-post-template
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/header.php
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/footer.php
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/index.php
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/blog-post-template
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/header.php
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/footer.php
 
 ### Day 4: January 13th, 2017
 
@@ -34,7 +34,7 @@
 
 **Thoughts**: I had some issues with the alignment of the pagers for navigating - they are currently in a fixed position, but I would like to try to make them as responsive as the rest of the site.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/post-index-template
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/post-index-template
 
 ### Day 5: January 14th, 2017
 
@@ -42,9 +42,9 @@
 
 **Thoughts**: Most of the code I re-used from some old projects - the contact form only needed to be re-styled to fit with the new site. I feel that I should go through the code to check that I understand how & why it works.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/about.php
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/contact.php
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/blog/send-email.php
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/about.php
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/contact.php
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/blog/send-email.php
 
 ### Day 6: January 15th, 2017
 
@@ -52,8 +52,8 @@
 
 **Thoughts**: I'm not 100% happy with the pager on the post-index-template.php, but it is functional and that will do for now. The one-page site is going well - however the button in the navbar isn't pulling right at the moment, and I need to fix some of the styling in the modal.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/tree/master/blog
-                  https://github.com/EchoOblivion/100-days-of-code/blob/master/personal-sites/Katie.html
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/tree/master/blog
+                  https://github.com/BeccaSeamer/100-days-of-code/blob/master/personal-sites/Katie.html
 
 ### Day 7: January 16th, 2017
 
@@ -61,4 +61,4 @@
 
 **Thoughts**: I still can't get the button on the navbar to pull right; I found that it might be that the class has changed to float-xs-right, but it still doesn't seem to work. The other issue I have had is that the title of the modal seems to automatically align right, when I want it to be centered. It seems that I may need to work on CSS more.
 
-**Link to work**: https://github.com/EchoOblivion/100-days-of-code/blob/master/personal-sites/Katie.html
+**Link to work**: https://github.com/BeccaSeamer/100-days-of-code/blob/master/personal-sites/Katie.html
